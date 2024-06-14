@@ -1,0 +1,112 @@
+.card h5{
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.card h1{
+    font-family: "Bowlby One", sans-serif;
+    font-size: 80px;
+}
+.btn btn-light{
+    width: 30px;
+}
+#parahead{
+    font-size: 30px;
+    margin-left: 80px;
+    padding: 10px;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+#para1{
+    font-size: 20px;
+    margin-left: 80px;
+}
+#bt{
+    position: relative;
+    bottom: 300px;
+    
+}
+#new{
+    width: 300px;
+    height: 300px;
+}
+#new:hover{
+    box-shadow: 2px 4px 6px rgb(193, 5, 114);
+    opacity: 30%;
+    
+}
+#btnlearnmore{
+    position: relative;
+    bottom: 70px;
+}
+
+
+footer .container{
+  
+    display: flex;
+    flex-direction: row;    
+    margin-left: 20px;
+} 
+.mb-3{
+    position: relative;
+    left:90%;
+}
+#copyright{
+    position: relative;
+    left: 70%;
+}
+#footerimg{
+    position: relative;
+    left: 40%;
+    box-shadow: 2px 4px 6px yellow;
+}
+iframe:hover{
+scrollbar-shadow-color: rgb(133, 130, 130);
+}
+#num{
+    font-size: 130px;
+}
+.card-title-overlay{
+    position: relative;
+    bottom: 90px;
+    font-size: 80px;
+}
+#img1:hover{
+    box-shadow: 2px 4px 6px rgb(207, 43, 98);
+   
+}
+#plus{
+    position: relative;
+    left: 120px;
+    bottom: 165px;
+    font-size: 70px;
+    opacity: 0%;
+}
+#cap{
+    position: relative;
+    left: 40px;
+    bottom: 160px;
+    font-weight: bold;
+    font-size: 25px;
+    opacity: 0%;
+    }
+
+#plus:hover {
+    opacity: 100%;
+}
+#cap:hover{
+    opacity: 100%;
+    color: white;
+    text-shadow:2px 4px 6px black;
+}
+.card-title-overlay:hover{
+    color:white;
+    font-size: 40px;
+    text-shadow:2px 4px 6px black;
+}
+#question:hover{
+    color:white;
+    font-size: 40px;
+    text-shadow:2px 4px 6px black;
+}
+
